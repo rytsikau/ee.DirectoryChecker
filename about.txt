@@ -1,0 +1,1 @@
+Outputs system information about each file/folder located in the specified path
