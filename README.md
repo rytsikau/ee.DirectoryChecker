@@ -9,7 +9,7 @@ This simple script outputs system information about each file/folder located in 
 
 1. Unpack the downloaded archive
 2. Open *start.bat* in a text editor and paste the path of required directory as a DIRINPUT parameter
-3. Save *start.bat* and run it. The result CSV file will be saved in the directory *results*
+3. Save *start.bat* and run it. The result CSV file will be saved in the directory *\results*
 
 
 ## Other info
