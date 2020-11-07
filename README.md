@@ -34,4 +34,4 @@ directory-contents folder-contents file-attributes file-date system-info
 [(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
 
 ---
-[[program page]](https://rytsikau.github.io/ee.directorychecker) [[start page]](https://rytsikau.github.io)
+[[program page]](https://rytsikau.github.io/ee.DirectoryChecker) [[start page]](https://rytsikau.github.io)
