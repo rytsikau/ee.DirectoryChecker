@@ -22,8 +22,10 @@ else
     $dirInput = $dirInput.Trim("\")
 }
 
+$dirInputFlat =
+    $dirInput.Split([System.IO.Path]::GetInvalidFileNameChars()) -Join("_") -Replace " ","_"
 $dirCsv = (Get-Item $psscriptroot -ErrorAction SilentlyContinue).FullName + "\results"
-$csvFileName = "list_$($dtStartTime.ToString('yyyyMMdd_HHmmss')).csv"
+$csvFileName = "$($dtStartTime.ToString('yyyyMMdd_HHmmss'))_$dirInputFlat.csv"
 
 Write-Host "Get info about files and folders located at: $dirInput\"
 Write-Host "CSV file name: $csvFileName"
