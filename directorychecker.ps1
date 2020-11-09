@@ -1,7 +1,7 @@
 '-------------------------------------------------------------------------------------------------'
 ' ee.DirectoryChecker (2020-11-07)                                                                '
 ' Outputs information about each file/folder in the specified directory to a CSV file             '
-' (format: "attributes","creation time","last write time","last access time","size","fullname"    '
+' (format: "attributes","creation time","last write time","last access time","size","fullname")   '
 '-------------------------------------------------------------------------------------------------'
 
 Set-ExecutionPolicy Unrestricted -Scope CurrentUser
