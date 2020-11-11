@@ -1,6 +1,6 @@
 '-------------------------------------------------------------------------------------------------'
 ' ee.DirectoryChecker (2020-11-07)                                                                '
-' Outputs information about each file/folder in the specified directory to a CSV file             '
+' Exports all system information of each file/folder located at the specified path, to a CSV file '
 ' (format: "attributes","creation time","last write time","last access time","size","fullname")   '
 '-------------------------------------------------------------------------------------------------'
 
