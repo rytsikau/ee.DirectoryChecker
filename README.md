@@ -1,6 +1,6 @@
 # ee.DirectoryChecker
 
-This simple script exports all system information of each file/folder located at the specified path. The result is saved as a CSV file with the following columns: attributes, creation time, last write time, last access time, file size and full path.
+This simple script exports all system information of each file/folder located at the specified path, to a CSV file with the following columns: attributes, creation time, last write time, last access time, file size and full path.
 
 ### [>> download version 20201108](https://github.com/rytsikau/ee.directorychecker/raw/main/ee.directorychecker_20201108.zip)<br><br><br>
 
