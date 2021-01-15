@@ -32,11 +32,5 @@ This simple script exports all system information of each file/folder located at
 
 attributes contents csv datetime directory files folder size system
 
-
-
-## Author
-
-[(c) Yauheni Rytsikau, 2020](mailto:y.rytsikau@gmail.com)
-
 ---
-[[program page]](https://rytsikau.github.io/ee.DirectoryChecker) [[start page]](https://rytsikau.github.io)
+[[program page]](https://rytsikau.github.io/ee.DirectoryChecker) [[start page]](https://rytsikau.github.io) [[author e-mail]](mailto:y.rytsikau@gmail.com)
